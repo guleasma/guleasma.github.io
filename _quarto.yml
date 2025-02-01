@@ -7,13 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    right:
+      - text: "<i class='fa fa-envelope'></i>"
+        href: mailto:asmgu746@student.liu.se
+      - text: "<i class='fa fa-file-pdf'></i>"
+        href: assets/CV-AsmaGul-2025.pdf
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    page-layout: full

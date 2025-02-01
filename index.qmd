@@ -2,4 +2,17 @@
 title: "Asma Gul's Homepage"
 ---
 
+# Welcome!
+
 I am a Master's student in Linköping University interested in functional genomics and bioinformatics.
+
+## Contact & Links
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+<i class='fa fa-envelope'></i> [asmgu746@student.liu.se](mailto:asmgu746@student.liu.se)
+:::
+::: {.g-col-12 .g-col-md-6}
+<i class='fa fa-file-pdf'></i> [Download CV](assets/CV-AsmaGul-2025.pdf)
+:::
+:::
