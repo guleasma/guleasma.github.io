@@ -3,6 +3,7 @@ title: "Asma Gul's Homepage"
 toc: false
 about:
     template: jolla
+    image: assets/pic.jpg
     links: 
         - text: CV 
           icon: file-earmark-pdf
