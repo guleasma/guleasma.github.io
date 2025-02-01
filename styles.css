@@ -1,1 +1,18 @@
 /* css styles */
+.grid {
+    margin-top: 2em;
+}
+
+.g-col-12 {
+    padding: 1em;
+    text-align: center;
+}
+
+.g-col-12 a {
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.g-col-12 a:hover {
+    text-decoration: underline;
+}
