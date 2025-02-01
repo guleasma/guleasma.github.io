@@ -1,0 +1,20 @@
+---
+title: "Cardiomyocyte Differentiation"
+author: "Asma Gul"
+date: "2025-02-01"
+categories: [Epigenetics, CRISPR, Cancer Biology]
+# image: "path/to/project-image.png"  # Add an image if available
+---
+
+### Lab 
+
+Claudio Cantù’s group, Linköping University (LiU) -- **2025**
+
+### Focus 
+
+Investigating hESC differentiation into cardiomyocytes, emphasizing Wnt/β‐catenin signaling regulation. 
+
+### Overview 
+
+This project aims to investigate dynamic epigenetic and chromatin accessibility changes during cardiomyocyte differentiation using a time-resolved approach. By integrating ATAC-seq, RNA-seq, and protein interaction assays, the study will map dynamic regulatory changes over differentiation stages, This will help uncover key Wnt signaling regulators, potentially revealing novel therapeutic targets for congenital heart disease. 
+
