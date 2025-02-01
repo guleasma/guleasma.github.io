@@ -7,6 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
     right:
       - icon: envelope
         href: mailto:asmgu746@student.liu.se
