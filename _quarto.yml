@@ -7,13 +7,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    right:
+      - icon: envelope
+        href: mailto:asmgu746@student.liu.se
+      - icon: file-pdf
+        href: assets/CV-AsmaGul-2025.pdf
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    page-layout: full
+    # # Add this Font Awesome section
+    # include-headers:
+    #   - text: |
+    #       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
