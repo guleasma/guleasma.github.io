@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://guleasma.github.io/projects/2025-02-01-epigenetic-reprogramming/index.html</loc>
+    <lastmod>2025-02-01T13:36:17.772Z</lastmod>
+  </url>
+  <url>
     <loc>https://guleasma.github.io/index.html</loc>
     <lastmod>2025-02-01T08:02:14.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://guleasma.github.io/projects.html</loc>
+    <lastmod>2025-02-01T13:36:17.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://guleasma.github.io/about.html</loc>
+    <lastmod>2025-02-01T13:36:17.771Z</lastmod>
   </url>
 </urlset>

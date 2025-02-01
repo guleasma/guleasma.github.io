@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "projects/2025-02-01-epigenetic-reprogramming/index.html",
+    "href": "projects/2025-02-01-epigenetic-reprogramming/index.html",
+    "title": "T‐ALL Epigenetic Reprogramming Project",
+    "section": "",
+    "text": "Lab\nColm Nestor’s group, Linköping University (LiU)\n\n\nFocus\nUsing CRISPR-dCas9-TET1 to reactivate hypermethylated TET2 in T-ALL cells.\n\n\nOverview\nT-cell acute lymphoblastic leukemia (T-ALL) is a hematologic malignancy where tumor suppressor genes such as TET2 are frequently silenced due to promoter hypermethylation, disrupting normal cell regulation and contributing to leukemogenesis. TET2, part of the ten-eleven translocation (TET) enzyme family, plays a crucial role in DNA demethylation, which is essential for gene activation. Reversing this methylation may restore TET2 function, offering a potential therapeutic strategy.\n\n\nMethods & Key Findings\nInspired by recent epigenetic editing studies on FOXP3 and CLTA, I applied and optimized these methodologies to target TET2. I designed sgRNAs for the TET2 promoter region, incorporated them into gBlocks, and verified their sequences through Sanger sequencing. The plasmid constructs were validated through restriction digestion and sequencing prior to transfection.\n\n\nTransfection Optimization\n\nJurkat & Loucy Cell Transfection: Nucleofection was optimized to enhance transfection efficiency in suspension cells.\nHEK293T Control Experiments: Lipofectamine transfection in HEK293T cells was used to confirm plasmid expression efficiency in adherent cells.\nAssessment of Transfection Efficiency & Gene Reactivation:\n\nFluorescence microscopy & flow cytometry assessed transfection success across all cell lines, using TagBFP as a marker.\nRT-qPCR analysis confirmed partial FOXP3 reactivation in Jurkat cells, validating CRISPRa-based epigenetic editing.\n\n\nKey Takeaways\nThese results highlight the potential of epigenetic reprogramming as a therapeutic strategy in leukemia. Further optimizations are required to improve transfection efficiency and enhance gene reactivation outcomes."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Asma Gul’s Homepage",
     "section": "",
     "text": "I am Asma Gul, a Master’s student in Linkoping university."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "T‐ALL Epigenetic Reprogramming Project\n\n\n\n\n\n\nEpigenetics\n\n\nCRISPR\n\n\nCancer Biology\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nAsma Gul\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I grew up in Pakistan, where my early fascination with genetics led me to pursue a BS in Microbiology and Molecular Genetics. During my undergraduate years, I focused on bacteriophage therapy, isolating and characterizing bacterial pathogens. This experience further fueled my long-standing passion for genetics, especially deepening my interest in DNA sequencing, molecular biology, and medical genetics.\nBuilding on this interest, I earned an MPhil in Biotechnology at Quaid-i-Azam University (Pakistan). My MPhil research centered on a rare genetic disorder, Amelogenesis Imperfecta, which I investigated using Sanger sequencing. This project further solidified my enthusiasm for DNA sequencing and the clinical applications of genetics.\nUpon completing my MPhil, I joined the pioneering molecular diagnostics team at the Armed Forces Institute of Pathology (AFIP), Pakistan, where I worked for 2.5 years. In this role, I helped develop NGS-based genetic testing for solid tumors, starting from FFPE tissue, and performed germline panel testing for hereditary cancers. My responsibilities included targeted NGS library preparation, variant annotation, and clinical reporting using databases like ClinVar and COSMIC. I frequently classified variants in accordance with ACMG, CAP, and NCCN guidelines, contributing to over 350 actionable reports for both somatic and germline testing. This work deepened my fascination with tumor heterogeneity and evolution while sharpening my skills in clinical decision‐making and data interpretation.\nIn 2022, I moved to Sweden to pursue an MSc in Experimental and Medical Biosciences at Linköping University (LiU). During my first year, I joined Colm Nestor’s Lab, where I explored an epigenetic editing strategy aimed at reactivating hypermethylated tumor suppressor genes (specifically TET2) in T‐cell acute lymphoblastic leukemia (T‐ALL). Through CRISPR/dCas9 fused with TET1 catalytic domains, I worked on demethylating the TET2 promoter in difficult‐to‐transfect suspension cell lines. I gained hands‐on experience in plasmid construction, nucleofection protocols, and assessing transfection efficiency using fluorescence microscopy and flow cytometry. This project gave me a deeper understanding of chromatin remodeling and epigenetic regulation in leukemia cells.\nCurrently, I am in my second year at Linköping University, conducting research in the Cantù Lab on cardiomyocyte differentiation from human embryonic stem cells (hESCs). My goal is to map regulatory elements within the Wnt/β‐catenin signaling pathway through time‐resolved ATAC‐seq and protein‐interaction experiments, to uncover the genomic underpinnings of congenital heart diseases. This project aligns with my broader aim to integrate wet‐lab and computational methods for a more comprehensive understanding of disease mechanisms.\nOutside the lab, I draw inspiration from visionary scientists like Kary Mullis, Frederick Sanger, and Svante Pääbo. I also love singing, nature photography, running in Tinnerö Eklandskap, and cooking traditional cuisine."
   }
 ]
