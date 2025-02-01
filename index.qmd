@@ -1,18 +1,15 @@
 ---
 title: "Asma Gul's Homepage"
+toc: false
+about:
+    template: jolla
+    links: 
+        - text: CV 
+          icon: file-earmark-pdf
+          href: assets/CV-AsmaGul-2025.pdf
+        - text: Email
+          icon: envelope
+          href: mailto:asmgu746@student.liu.se
 ---
 
-# Welcome!
-
-I am a Master's student in Linköping University interested in functional genomics and bioinformatics.
-
-## Contact & Links
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-<i class='fa fa-envelope'></i> [asmgu746@student.liu.se](mailto:asmgu746@student.liu.se)
-:::
-::: {.g-col-12 .g-col-md-6}
-<i class='fa fa-file-pdf'></i> [Download CV](assets/CV-AsmaGul-2025.pdf)
-:::
-:::
+I am Asma Gul, a Master's student in Linkoping university.

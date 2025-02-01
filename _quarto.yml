@@ -8,9 +8,9 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - text: "<i class='fa fa-envelope'></i>"
+      - icon: envelope
         href: mailto:asmgu746@student.liu.se
-      - text: "<i class='fa fa-file-pdf'></i>"
+      - icon: file-pdf
         href: assets/CV-AsmaGul-2025.pdf
 
 format:
@@ -19,3 +19,7 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    # # Add this Font Awesome section
+    # include-headers:
+    #   - text: |
+    #       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
