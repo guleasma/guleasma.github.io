@@ -11,6 +11,12 @@ about:
         - text: Email
           icon: envelope
           href: mailto:asmgu746@student.liu.se
+        - text: Github
+          icon: github
+          href: https://github.com/guleasma
+        - text: LinkedIn
+          icon: linkedin
+          href: https://www.linkedin.com/in/asma-gul-84245013a
 ---
 
-I am Asma Gul, a Master's student in Linkoping university.
+I am Asma Gul, a Master's student in Linköping university.
