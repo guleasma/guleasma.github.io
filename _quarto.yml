@@ -16,14 +16,22 @@ website:
         href: mailto:asmgu746@student.liu.se
       - icon: file-pdf
         href: assets/CV-AsmaGul-2025.pdf
+      - icon: github
+        href: https://github.com/guleasma
+      - icon: linkedin
+        href: https://www.linkedin.com/in/asma-gul-84245013a
+
+  page-footer: 
+    left: "Copyright 2025, Asma Gul"
+    right: 
+      - icon: github
+        href: https://github.com/guleasma
+      - icon: linkedin
+        href: https://www.linkedin.com/in/asma-gul-84245013a
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
     page-layout: full
-    # # Add this Font Awesome section
-    # include-headers:
-    #   - text: |
-    #       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

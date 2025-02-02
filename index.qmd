@@ -5,12 +5,12 @@ about:
     template: jolla
     image: assets/pic.jpg
     links: 
-        - text: CV 
-          icon: file-earmark-pdf
-          href: assets/CV-AsmaGul-2025.pdf
         - text: Email
           icon: envelope
           href: mailto:asmgu746@student.liu.se
+        - text: CV 
+          icon: file-earmark-pdf
+          href: assets/CV-AsmaGul-2025.pdf
         - text: Github
           icon: github
           href: https://github.com/guleasma
