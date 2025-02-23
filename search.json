@@ -4,7 +4,35 @@
     "href": "projects/2025-02-01-epigenetic-reprogramming/index.html",
     "title": "T‐ALL Epigenetic Reprogramming Project",
     "section": "",
-    "text": "Lab\nColm Nestor’s group, Linköping University (LiU) – 2024\n\n\nFocus\nUsing CRISPR-dCas9-TET1 to reactivate hypermethylated TET2 in T-ALL cells.\n\n\nOverview\nT-cell acute lymphoblastic leukemia (T-ALL) is a hematologic malignancy where tumor suppressor genes such as TET2 are frequently silenced due to promoter hypermethylation, disrupting normal cell regulation and contributing to leukemogenesis. TET2, part of the ten-eleven translocation (TET) enzyme family, plays a crucial role in DNA demethylation, which is essential for gene activation. Reversing this methylation may restore TET2 function, offering a potential therapeutic strategy.\n\n\nMethods & Key Findings\nInspired by recent epigenetic editing studies on FOXP3 and CLTA, I applied and optimized these methodologies to target TET2. I designed sgRNAs for the TET2 promoter region, incorporated them into gBlocks, and verified their sequences through Sanger sequencing. The plasmid constructs were validated through restriction digestion and sequencing prior to transfection.\n\n\nTransfection Optimization\n\nJurkat & Loucy Cell Transfection: Nucleofection was optimized to enhance transfection efficiency in suspension cells.\nHEK293T Control Experiments: Lipofectamine transfection in HEK293T cells was used to confirm plasmid expression efficiency in adherent cells.\nAssessment of Transfection Efficiency & Gene Reactivation:\n\nFluorescence microscopy & flow cytometry assessed transfection success across all cell lines, using TagBFP as a marker.\nRT-qPCR analysis confirmed partial FOXP3 reactivation in Jurkat cells, validating CRISPRa-based epigenetic editing.\n\n\nKey Takeaways\nThese results highlight the potential of epigenetic reprogramming as a therapeutic strategy in leukemia. Further optimizations are required to improve transfection efficiency and enhance gene reactivation outcomes."
+    "text": "Project diagram illustrating the CRISPR-dCas9-TET1 approach for TET2 reactivation"
+  },
+  {
+    "objectID": "projects/2025-02-01-epigenetic-reprogramming/index.html#lab",
+    "href": "projects/2025-02-01-epigenetic-reprogramming/index.html#lab",
+    "title": "T‐ALL Epigenetic Reprogramming Project",
+    "section": "Lab",
+    "text": "Lab\nProf. Colm Nestor’s group, Linköping University (LiU) – 2024"
+  },
+  {
+    "objectID": "projects/2025-02-01-epigenetic-reprogramming/index.html#focus",
+    "href": "projects/2025-02-01-epigenetic-reprogramming/index.html#focus",
+    "title": "T‐ALL Epigenetic Reprogramming Project",
+    "section": "Focus",
+    "text": "Focus\nUsing CRISPR-dCas9-TET1 to reactivate hypermethylated TET2 in T-ALL cells."
+  },
+  {
+    "objectID": "projects/2025-02-01-epigenetic-reprogramming/index.html#overview",
+    "href": "projects/2025-02-01-epigenetic-reprogramming/index.html#overview",
+    "title": "T‐ALL Epigenetic Reprogramming Project",
+    "section": "Overview",
+    "text": "Overview\nT-cell acute lymphoblastic leukemia (T-ALL) is a hematologic malignancy where tumor suppressor genes such as TET2 are frequently silenced due to promoter hypermethylation, disrupting normal cell regulation and contributing to leukemogenesis. TET2, part of the ten-eleven translocation (TET) enzyme family, plays a crucial role in DNA demethylation, which is essential for gene activation. Reversing this methylation may restore TET2 function, offering a potential therapeutic strategy."
+  },
+  {
+    "objectID": "projects/2025-02-01-epigenetic-reprogramming/index.html#methods-key-findings",
+    "href": "projects/2025-02-01-epigenetic-reprogramming/index.html#methods-key-findings",
+    "title": "T‐ALL Epigenetic Reprogramming Project",
+    "section": "Methods & Key Findings",
+    "text": "Methods & Key Findings\nInspired by recent epigenetic editing studies on FOXP3 and CLTA, I applied and optimized these methodologies to target TET2. I designed sgRNAs for the TET2 promoter region, incorporated them into gBlocks, and verified their sequences through Sanger sequencing. The plasmid constructs were validated through restriction digestion and sequencing prior to transfection.\n\nTransfection Optimization\n\nJurkat & Loucy Cell Transfection: Nucleofection was optimized to enhance transfection efficiency in suspension cells.\nHEK293T Control Experiments: Lipofectamine transfection in HEK293T cells was used to confirm plasmid expression efficiency in adherent cells.\nAssessment of Transfection Efficiency & Gene Reactivation:\n\nFluorescence microscopy & flow cytometry assessed transfection success across all cell lines, using TagBFP as a marker.\nRT-qPCR analysis confirmed partial FOXP3 reactivation in Jurkat cells, validating CRISPRa-based epigenetic editing.\n\n\nKey Takeaways\nThese results highlight the potential of epigenetic reprogramming as a therapeutic strategy in leukemia. Further optimizations are required to improve transfection efficiency and enhance gene reactivation outcomes."
   },
   {
     "objectID": "about.html",
@@ -18,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Cardiomyocyte Differentiation\n\n\n\n\n\n\nEpigenetics\n\n\nCRISPR\n\n\nCancer Biology\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nAsma Gul\n\n\n\n\n\n\n\n\n\n\n\n\nT‐ALL Epigenetic Reprogramming Project\n\n\n\n\n\n\nEpigenetics\n\n\nCRISPR\n\n\nCancer Biology\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nAsma Gul\n\n\n\n\n\n\nNo matching items"
+    "text": "Cardiomyocyte Differentiation\n\n\n\n\n\n\nEpigenetics\n\n\nCRISPR\n\n\nStem Cells\n\n\nDevelopmental Biology\n\n\n\nInvestigation of epigenetic and chromatin accessibility changes during cardiomyocyte differentiation from hESCs, focusing on Wnt/β‐catenin signaling regulation and its implications for congenital heart disease.\n\n\n\n\n\nFeb 1, 2025\n\n\nAsma Gul\n\n\n\n\n\n\n\n\n\n\n\n\nT‐ALL Epigenetic Reprogramming Project\n\n\n\n\n\n\nEpigenetics\n\n\nCRISPR\n\n\nCancer Biology\n\n\nT-ALL\n\n\nGene Regulation\n\n\nMolecular Biology\n\n\n\nResearch project investigating epigenetic reprogramming in T-ALL using CRISPR-dCas9-TET1 to reactivate the silenced TET2 tumor suppressor gene through targeted DNA demethylation.\n\n\n\n\n\nFeb 1, 2025\n\n\nAsma Gul\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -32,6 +60,27 @@
     "href": "projects/2025-02-01-cardiomyocyte/index.html",
     "title": "Cardiomyocyte Differentiation",
     "section": "",
-    "text": "Lab\nClaudio Cantù’s group, Linköping University (LiU) – 2025\n\n\nFocus\nInvestigating hESC differentiation into cardiomyocytes, emphasizing Wnt/β‐catenin signaling regulation.\n\n\nOverview\nThis project aims to investigate dynamic epigenetic and chromatin accessibility changes during cardiomyocyte differentiation using a time-resolved approach. By integrating ATAC-seq, RNA-seq, and protein interaction assays, the study will map dynamic regulatory changes over differentiation stages, This will help uncover key Wnt signaling regulators, potentially revealing novel therapeutic targets for congenital heart disease."
+    "text": "Prof. Claudio Cantù’s group, Linköping University (LiU) – 2025"
+  },
+  {
+    "objectID": "projects/2025-02-01-cardiomyocyte/index.html#lab",
+    "href": "projects/2025-02-01-cardiomyocyte/index.html#lab",
+    "title": "Cardiomyocyte Differentiation",
+    "section": "",
+    "text": "Prof. Claudio Cantù’s group, Linköping University (LiU) – 2025"
+  },
+  {
+    "objectID": "projects/2025-02-01-cardiomyocyte/index.html#focus",
+    "href": "projects/2025-02-01-cardiomyocyte/index.html#focus",
+    "title": "Cardiomyocyte Differentiation",
+    "section": "Focus",
+    "text": "Focus\nInvestigating hESC differentiation into cardiomyocytes, emphasizing Wnt/β‐catenin signaling regulation."
+  },
+  {
+    "objectID": "projects/2025-02-01-cardiomyocyte/index.html#overview",
+    "href": "projects/2025-02-01-cardiomyocyte/index.html#overview",
+    "title": "Cardiomyocyte Differentiation",
+    "section": "Overview",
+    "text": "Overview\nThis project aims to investigate dynamic epigenetic and chromatin accessibility changes during cardiomyocyte differentiation using a time-resolved approach. By integrating ATAC-seq, RNA-seq, and protein interaction assays, the study will map dynamic regulatory changes over differentiation stages, This will help uncover key Wnt signaling regulators, potentially revealing novel therapeutic targets for congenital heart disease.\n\nOngoing work\nAs my project is ongoing, I first performed a reanalysis of publicly available datasets (E-MTAB-12598) to establish a reference baseline. Using Seurat in R, I preprocessed scRNA-seq data, assessed batch effects via PCA, and applied Harmony for batch correction before UMAP visualization.\n\nUMAP Results: The clustering shows a transition from pluripotency toward a mixed mesoderm-like state rather than a pure mesoderm population, likely due to CHIR-only treatment. scRNA-seq Analysis.\nDot Plot Trends: Stemness markers (POU5F1, SOX2) decrease over time, while mesoderm markers (TBXT, MESP1) increase. Cardiomyocyte markers (NKX2-5, ISL1) remain silent, confirming early differentiation but not definitive cardiomyocyte commitment."
   }
 ]
