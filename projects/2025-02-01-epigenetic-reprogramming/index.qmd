@@ -2,23 +2,32 @@
 title: "T‐ALL Epigenetic Reprogramming Project"
 author: "Asma Gul"
 date: "2025-02-01"
-categories: [Epigenetics, CRISPR, Cancer Biology]
-# image: "path/to/project-image.png"  # Add an image if available
+# Visible keywords (short list)
+categories: [Epigenetics, CRISPR, Cancer Biology, T-ALL, Gene Regulation, Molecular Biology]
+keywords: [T-ALL, CRISPR-dCas9-TET1, epigenetic editing, TET2 reactivation]
+# Hidden metadata for SEO
+meta-keywords: >
+  T-cell acute lymphoblastic leukemia, epigenetic editing, CRISPR-dCas9-TET1, TET2 reactivation, DNA methylation, tumor suppressor genes, gene silencing, promoter hypermethylation, leukemogenesis, Jurkat cells, Loucy cells, nucleofection, transfection optimization, cancer epigenetics, gene therapy, therapeutic targeting, DNA demethylation, TET enzyme family
+description: "Research project investigating epigenetic reprogramming in T-ALL using CRISPR-dCas9-TET1 to reactivate the silenced TET2 tumor suppressor gene through targeted DNA demethylation."
+page-hidden-keywords: [leukemia therapy, epigenome editing, DNA methylation, gene expression, cell transfection]
+# image: "image.jpeg"
 ---
 
-### Lab
+![Project diagram illustrating the CRISPR-dCas9-TET1 approach for TET2 reactivation](image.jpeg)
 
-[Colm Nestor's group](https://liu.se/forskning/epigenetisk-kontroll-av-human-t-cellsbiologi), Linköping University (LiU) -- **2024**
+## Lab
 
-### Focus
+[Prof. Colm Nestor's group](https://liu.se/forskning/epigenetisk-kontroll-av-human-t-cellsbiologi), Linköping University (LiU) -- **2024**
+
+## Focus
 
 Using CRISPR-dCas9-TET1 to reactivate hypermethylated *TET2* in T-ALL cells.
 
-### Overview
+## Overview
 
 T-cell acute lymphoblastic leukemia (T-ALL) is a hematologic malignancy where tumor suppressor genes such as *TET2* are frequently silenced due to promoter hypermethylation, disrupting normal cell regulation and contributing to leukemogenesis. *TET2*, part of the ten-eleven translocation (TET) enzyme family, plays a crucial role in DNA demethylation, which is essential for gene activation. Reversing this methylation may restore TET2 function, offering a potential therapeutic strategy.
 
-### Methods & Key Findings
+## Methods & Key Findings
 
 Inspired by recent epigenetic editing studies on [*FOXP3*](https://doi.org/10.1016/j.cellimm.2021.104471) and [*CLTA*](https://doi.org/10.1016/j.cell.2021.03.025), I applied and optimized these methodologies to target *TET2*. I designed sgRNAs for the *TET2* promoter region, incorporated them into gBlocks, and verified their sequences through Sanger sequencing. The plasmid constructs were validated through restriction digestion and sequencing prior to transfection.
 

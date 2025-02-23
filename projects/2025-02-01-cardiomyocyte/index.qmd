@@ -2,19 +2,42 @@
 title: "Cardiomyocyte Differentiation"
 author: "Asma Gul"
 date: "2025-02-01"
-categories: [Epigenetics, CRISPR, Cancer Biology]
+categories: [Epigenetics, CRISPR, Stem Cells, Developmental Biology]
+keywords: [cardiomyocyte differentiation, hESC, Wnt signaling]
+# Hidden metadata for SEO
+meta-keywords: >
+  cardiomyocyte differentiation, hESC, Wnt signaling, beta-catenin, 
+  ATAC-seq, RNA-seq, epigenetics, chromatin accessibility, 
+  cardiac development, congenital heart disease, protein interaction, 
+  gene regulation, stem cells, developmental biology, heart disease, 
+  cardiac differentiation, human embryonic stem cells
+description: "Investigation of epigenetic and chromatin accessibility changes during cardiomyocyte differentiation from hESCs, focusing on Wnt/β‐catenin signaling regulation and its implications for congenital heart disease."
+page-hidden-keywords: [beta-catenin, ATAC-seq, RNA-seq, epigenetics, chromatin accessibility, cardiac development, congenital heart disease, protein interaction, gene regulation]
 # image: "path/to/project-image.png"  # Add an image if available
 ---
 
-### Lab 
 
-[Claudio Cantù’s group](https://liu.se/en/research/cantu-lab), Linköping University (LiU) -- **2025**
+## Lab 
 
-### Focus 
+[Prof. Claudio Cantù’s group](https://liu.se/en/research/cantu-lab), Linköping University (LiU) -- **2025**
+
+## Focus 
 
 Investigating hESC differentiation into cardiomyocytes, emphasizing Wnt/β‐catenin signaling regulation. 
 
-### Overview 
+## Overview 
 
 This project aims to investigate dynamic epigenetic and chromatin accessibility changes during cardiomyocyte differentiation using a time-resolved approach. By integrating ATAC-seq, RNA-seq, and protein interaction assays, the study will map dynamic regulatory changes over differentiation stages, This will help uncover key Wnt signaling regulators, potentially revealing novel therapeutic targets for congenital heart disease. 
+
+### Ongoing work
+
+As my project is ongoing, I first performed a reanalysis of publicly available datasets (E-MTAB-12598) to establish a reference baseline. Using Seurat in R, I preprocessed scRNA-seq data, assessed batch effects via PCA, and applied Harmony for batch correction before UMAP visualization.
+
+- **UMAP Results**: 
+The clustering shows a transition from pluripotency toward a mixed mesoderm-like state rather than a pure mesoderm population, likely due to CHIR-only treatment. [scRNA-seq Analysis](/assets/UMAP-Analysis-of-hESC-scRNA-seq-Data.html).
+
+
+- **Dot Plot Trends**: Stemness markers (POU5F1, SOX2) decrease over time, while mesoderm markers (TBXT, MESP1) increase. Cardiomyocyte markers (NKX2-5, ISL1) remain silent, confirming early differentiation but not definitive cardiomyocyte commitment.
+
+![](labeled_dotplot.jpg)
 
