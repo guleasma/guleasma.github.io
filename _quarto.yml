@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Asma Gul's Homepage"
+  site-url: https://asmagul.com
   navbar:
     left:
       - href: index.qmd
