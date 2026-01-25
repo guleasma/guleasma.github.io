@@ -19,4 +19,4 @@ about:
           href: https://www.linkedin.com/in/asma-gul-84245013a
 ---
 
-I am Asma Gul, a Master's student in Linköping university.
+Welcome to my homepage. I am an incoming PhD student at Linköping University. 
